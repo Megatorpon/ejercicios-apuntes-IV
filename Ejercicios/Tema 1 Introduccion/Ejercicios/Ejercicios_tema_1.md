@@ -10,7 +10,7 @@ De esta forma atendiendo a los ejemplos que se presentan en la página citada en
 2022:224,383068€
 2023:112,191534€
 
-##### Ejercicio 2: Usando las tablas de precios de servicios de alojamiento en Internet “clásicos”, es decir, que ofrezcan Virtual Private Servers o servidores físicos, y de proveedores de servicios en la nube, comparar el coste durante un año de un ordenador con un procesador estándar (escogerlo de forma que sea el mismo tipo de procesador en los dos vendedores) y con el resto de las características similares (tamaño de disco duro equivalente a transferencia de disco duro) en el caso de que la infraestructura comprada se usa solo el 1% o el 10% del tiempo.
+#### Ejercicio 2: Usando las tablas de precios de servicios de alojamiento en Internet “clásicos”, es decir, que ofrezcan Virtual Private Servers o servidores físicos, y de proveedores de servicios en la nube, comparar el coste durante un año de un ordenador con un procesador estándar (escogerlo de forma que sea el mismo tipo de procesador en los dos vendedores) y con el resto de las características similares (tamaño de disco duro equivalente a transferencia de disco duro) en el caso de que la infraestructura comprada se usa solo el 1% o el 10% del tiempo.
 Como Virtual Private Server he elegido el [siguiente](https://www.arsys.es/servidores/vps). Como configuración del mismo he decidido elegir una opción intermedia entre la más cara y la más barata y nos presenta las siguientes características:
 - Procesador 2 vCPUs Intel Xeon.
 - Memoria RAM 4 GB.
