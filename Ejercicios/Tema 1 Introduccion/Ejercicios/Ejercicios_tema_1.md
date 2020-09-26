@@ -1,6 +1,6 @@
 ## Tema 1: Introducción a la infraestructura virtual: concepto y soporte físico
 ###### Antonio Cuadros Lapresta
-##### Ejercicio 1: Consultar en el catálogo de alguna tienda de informática el precio de un ordenador tipo servidor y calcular su coste de amortización a cuatro y siete años. Consultar [este artículo en Infoautónomos sobre el tema](https://www.infoautonomos.com/consultas-a-la-comunidad/988/)
+#### Ejercicio 1: Consultar en el catálogo de alguna tienda de informática el precio de un ordenador tipo servidor y calcular su coste de amortización a cuatro y siete años. Consultar [este artículo en Infoautónomos sobre el tema](https://www.infoautonomos.com/consultas-a-la-comunidad/988/)
 Para la realización de este ejercicio en primer lugar he tenido que buscar información acerca de la amortización, más concretamente aquella relacionada con productos informáticos, para ello en consultado [la siguiente página](https://www.infoautonomos.com/contabilidad/tablas-de-amortizacion-para-los-bienes-de-una-empresa/)
 Según la información de la misma los productos que se enmarcan como "Equipos para tratamiendo de la información y sistemas y programas informáticos" tienen un coeficiente lineal máximo del 26% y un periodo máximo de 10 años.
 Si nosotros por ejemplo queremos amortizar [el siguiente producto](https://www.pccomponentes.com/asustor-lockerstor-8-as6508t-servidor-nas), un servidor Asustor LOCKERSTOR 8 AS6508T Servidor NAS con un precio de 1092,42€.
@@ -32,7 +32,7 @@ Teniendo todo esto en cuenta y si suponemos que se va a utilizar unicamente el 1
 
 Como conclusion podemos ver que nos viene mucho mejor el segundo caso ya que se ajusta mejor a nuestro uso y en consecuencia conseguimos ahorrar más dinero e incluso tenemos mejores características como el tamaño del disco duro.
 
-##### Ejercicio 3: En general, cualquier ordenador con menos de 5 o 6 años tendrá estos flags. ¿Qué modelo de procesador es? ¿Qué aparece como salida de esa orden? Si usas una máquina virtual, ¿qué resultado da? ¿Y en una Raspberry Pi o, si tienes acceso, el procesador del móvil?
+#### Ejercicio 3: En general, cualquier ordenador con menos de 5 o 6 años tendrá estos flags. ¿Qué modelo de procesador es? ¿Qué aparece como salida de esa orden? Si usas una máquina virtual, ¿qué resultado da? ¿Y en una Raspberry Pi o, si tienes acceso, el procesador del móvil?
 
 El procesador que posee mi ordenador es un intel core i7 8700k, todos los detalles se pueden consultar [aquí](https://www.intel.es/content/www/es/es/products/processors/core/core-vpro/i7-8700k.html).
 Si leemos el archivo /proc/cpuinfo obtenemos la siguiente información:
@@ -49,12 +49,12 @@ Si además probamos esto en una máquina virtual, obtenemos lo siguiente:
 
 En cuanto al último aspecto comentado a probar, no dispongo de una Raspberry Pi ni de un móvil con Android.
 
-##### Ejercicio 4: Instalar un hipervisor para gestionar máquinas virtuales, que más adelante se podrá usar en pruebas y ejercicios. Usar siempre que sea posible un hipervisor que sea software libre.
+#### Ejercicio 4: Instalar un hipervisor para gestionar máquinas virtuales, que más adelante se podrá usar en pruebas y ejercicios. Usar siempre que sea posible un hipervisor que sea software libre.
 Como hipervisor para gestionar máquinas virtuales y que además sea software libre he elegido [Virtual Box](https://www.virtualbox.org/)
 Se muestra una captura de Virtual Box ejecutándose tras su instalación:
 ![Imagen5](https://github.com/antoniocuadros/ejercicios-apuntes-IV/blob/master/Ejercicios/Tema%201%20Introduccion/Im%C3%A1genes/Ejercicio_3_5.PNG)
 
-##### Ejercicio 5: Darse de alta en una web que permita hacer pruebas con alguno de los sistemas de gestión de nube libres como los mencionados en los párrafos anteriores, aunque sea temporalmente. Si la prueba es menos de un mes, simplemente anotarlo y dejarlo para el mes de diciembre, más o menos.
+#### Ejercicio 5: Darse de alta en una web que permita hacer pruebas con alguno de los sistemas de gestión de nube libres como los mencionados en los párrafos anteriores, aunque sea temporalmente. Si la prueba es menos de un mes, simplemente anotarlo y dejarlo para el mes de diciembre, más o menos.
 
 Para este ejercicio me he dado de alta en Microsoft Azure que posee una prueba gratuita de 12 meses, aún así no he adquirido aún la prueba hasta que la necesite. Se adjunta captura de pantalla una vez dado de alta:
 ![Imagen6](https://github.com/antoniocuadros/ejercicios-apuntes-IV/blob/master/Ejercicios/Tema%201%20Introduccion/Im%C3%A1genes/Ejercicio_5_1.PNG)
