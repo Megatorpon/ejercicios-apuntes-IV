@@ -1,6 +1,6 @@
 ## Hito 0: Configuración gitHub :wrench:
 
-### Claves pública y privada
+### Claves pública y privada :closed_lock_with_key:
 A continuación se muestra el proceso de generación y configuración de las claves necesarias para trabajar con GitHub.
 Generamos el par de claves pública/privada:
 
@@ -18,7 +18,7 @@ Agregamos la clave desde GitHub:
 
 ![Imagen4](https://github.com/antoniocuadros/ejercicios-apuntes-IV/blob/master/Configuraci%C3%B3n%20gitHub/Imagenes/Captura%20de%20pantalla%20de%202020-09-25%2016-42-23.png)
 
-### Configuración de git
+### Configuración de git :hammer:
 
 Establecemos el nombre, correo y editor por defecto:
 
