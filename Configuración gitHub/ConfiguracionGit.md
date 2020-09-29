@@ -29,3 +29,5 @@ Establecemos el nombre, correo y editor por defecto:
 ![Imagen 5](https://github.com/antoniocuadros/ejercicios-apuntes-IV/blob/master/Configuraci%C3%B3n%20gitHub/Imagenes/Captura%20de%20pantalla%20de%202020-09-25%2016-44-22.png)
 
 ![Imagen 6](https://github.com/antoniocuadros/ejercicios-apuntes-IV/blob/master/Configuraci%C3%B3n%20gitHub/Imagenes/Captura%20de%20pantalla%20de%202020-09-25%2016-46-47.png)
+
+![Imagen 8](https://github.com/antoniocuadros/ejercicios-apuntes-IV/blob/master/Configuraci%C3%B3n%20gitHub/Imagenes/remote.png)
