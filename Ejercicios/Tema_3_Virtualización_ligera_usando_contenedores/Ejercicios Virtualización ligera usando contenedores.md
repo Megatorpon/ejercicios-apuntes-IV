@@ -49,6 +49,8 @@ Nos bajamos CentOS:
 
 ### Buscar e instalar una imagen que incluya MongoDB.
 
+![img3](https://github.com/antoniocuadros/ejercicios-apuntes-IV/blob/master/Ejercicios/Tema_3_Virtualizaci%C3%B3n_ligera_usando_contenedores/images/2.3.png)
+
 ## Ejercicio 3
 ### Crear un usuario propio e instalar alguna aplicación tal como nginx en el contenedor creado de esta forma, usando las órdenes propias del sistema operativo con el que se haya inicializado el contenedor.
 
