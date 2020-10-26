@@ -80,3 +80,5 @@ Este ejercicio lo hemos realizado ya en el hito 3. Se puede consultar el Dockerf
 
 ## Ejercicio 6
 ### Desplegar un contenedor en alguno de estos servicios, de prueba gratuita o gratuitos.
+
+Se ha desplegado en [Docker Hub](https://hub.docker.com/r/antoniocuadros/whentoclass) y en [GitHub Container Registry](https://github.com/users/antoniocuadros/packages/container/package/whentoclasstests).
