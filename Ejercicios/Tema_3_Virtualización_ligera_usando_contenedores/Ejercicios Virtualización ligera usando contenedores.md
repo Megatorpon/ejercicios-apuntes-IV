@@ -40,11 +40,11 @@ Todas las imágenes mostradas se han encontrado en [Docker Hub](https://hub.dock
 
 Nos bajamos Alpine por ejemplo:
 
-![img1](https://github.com/antoniocuadros/ejercicios-apuntes-IV/blob/master/Ejercicios/Tema_3_Virtualizaci%C3%B3n_ligera_usando_contenedores/images/2.1.PNG)
+![img1](https://github.com/antoniocuadros/ejercicios-apuntes-IV/blob/master/Ejercicios/Tema_3_Virtualizaci%C3%B3n_ligera_usando_contenedores/images/2.1.png)
 
 Nos bajamos CentOS:
 
-![img2](https://github.com/antoniocuadros/ejercicios-apuntes-IV/blob/master/Ejercicios/Tema_3_Virtualizaci%C3%B3n_ligera_usando_contenedores/images/2.2.PNG)
+![img2](https://github.com/antoniocuadros/ejercicios-apuntes-IV/blob/master/Ejercicios/Tema_3_Virtualizaci%C3%B3n_ligera_usando_contenedores/images/2.2.png)
 
 ### Buscar e instalar una imagen que incluya MongoDB.
 
