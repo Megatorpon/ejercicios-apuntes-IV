@@ -37,6 +37,7 @@ Probamos si está instalado y funciona correctamente:
 ## Ejercicio 2
 ### Instalar a partir de docker una imagen alternativa de Ubuntu y alguna adicional, por ejemplo de CentOS.
 
+
 ### Buscar e instalar una imagen que incluya MongoDB.
 
 ## Ejercicio 3
