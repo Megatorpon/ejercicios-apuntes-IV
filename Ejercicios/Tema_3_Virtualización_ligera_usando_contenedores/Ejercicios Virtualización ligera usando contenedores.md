@@ -36,6 +36,7 @@ Probamos si está instalado y funciona correctamente:
 
 ## Ejercicio 2
 ### Instalar a partir de docker una imagen alternativa de Ubuntu y alguna adicional, por ejemplo de CentOS.
+
 Todas las imágenes mostradas se han encontrado en [Docker Hub](https://hub.docker.com/):
 
 Nos bajamos Alpine por ejemplo:
