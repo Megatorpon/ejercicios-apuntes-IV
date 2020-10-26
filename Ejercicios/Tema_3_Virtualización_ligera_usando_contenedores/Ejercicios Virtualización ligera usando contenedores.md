@@ -72,6 +72,7 @@ Ahora instalamos Nginx y comprobamos que funciona:
 ### Crear a partir del contenedor anterior una imagen persistente con commit.
 
 ![img1](https://github.com/antoniocuadros/ejercicios-apuntes-IV/blob/master/Ejercicios/Tema_3_Virtualizaci%C3%B3n_ligera_usando_contenedores/images/4.1.png)
+
 ## Ejercicio 5
 ### Crear un Dockerfile para el servicio web que testee la clase que se ha venido desarrollando hasta ahora.
 
