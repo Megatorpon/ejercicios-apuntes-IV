@@ -76,5 +76,7 @@ Ahora instalamos Nginx y comprobamos que funciona:
 ## Ejercicio 5
 ### Crear un Dockerfile para el servicio web que testee la clase que se ha venido desarrollando hasta ahora.
 
+Este ejercicio lo hemos realizado ya en el hito 3. Se puede consultar el Dockerfile en el [siguiente enlace](https://github.com/antoniocuadros/WhenToClass/blob/master/Dockerfile).
+
 ## Ejercicio 6
 ### Desplegar un contenedor en alguno de estos servicios, de prueba gratuita o gratuitos.
