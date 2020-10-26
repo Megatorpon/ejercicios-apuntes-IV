@@ -36,7 +36,15 @@ Probamos si está instalado y funciona correctamente:
 
 ## Ejercicio 2
 ### Instalar a partir de docker una imagen alternativa de Ubuntu y alguna adicional, por ejemplo de CentOS.
+Todas las imágenes mostradas se han encontrado en [Docker Hub](https://hub.docker.com/):
 
+Nos bajamos Alpine por ejemplo:
+
+![img1](https://github.com/antoniocuadros/ejercicios-apuntes-IV/blob/master/Ejercicios/Tema_3_Virtualizaci%C3%B3n_ligera_usando_contenedores/images/2.1.PNG)
+
+Nos bajamos CentOS:
+
+![img2](https://github.com/antoniocuadros/ejercicios-apuntes-IV/blob/master/Ejercicios/Tema_3_Virtualizaci%C3%B3n_ligera_usando_contenedores/images/2.2.PNG)
 
 ### Buscar e instalar una imagen que incluya MongoDB.
 
