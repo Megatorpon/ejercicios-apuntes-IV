@@ -15,3 +15,9 @@ Una vez habiéndole dado a "Sign Up" se nos redirige a lo siguiente, debemos dar
 Una vez hecho esto se nos pide introducir la contraseña de GitHub, la introducimos y con esto ya estaríamos registrados.
 
 ![img3](https://github.com/antoniocuadros/ejercicios-apuntes-IV/blob/master/Ejercicios/Tema_Integracion_Continua/images/9.3.png)
+
+#### Activar el repositorio en el que se vaya a aplicar la integración continua
+
+A la izquieda en la misma página de bienvenida podemos encontar un símbolo "+" para añadir travis-ci a nuestro repositorio:
+
+![img4](https://github.com/antoniocuadros/ejercicios-apuntes-IV/blob/master/Ejercicios/Tema_Integracion_Continua/images/9.4.png)
