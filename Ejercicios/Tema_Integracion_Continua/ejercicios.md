@@ -29,3 +29,6 @@ Ahora en la nueva página a la que hemos sido redirigidos, añadimos travis-ci a
 Lo que hemos conseguido con esto es añadir un webhook de GitHub en nuestro repositorio de forma automática:
 
 ![img6](https://github.com/antoniocuadros/ejercicios-apuntes-IV/blob/master/Ejercicios/Tema_Integracion_Continua/images/9.6.png)
+
+## Ejercicio 10
+### Configurar integración continua para nuestra aplicación usando Travis o algún otro sitio.
