@@ -7,3 +7,7 @@ En primer lugar para empezar a trabajar con Travis CI debemos dirigirnos a su p�
 Una vez dentro de la página web nos registramos haciendo click en "Sign Up": 
 
 ![img1](https://github.com/antoniocuadros/ejercicios-apuntes-IV/blob/master/Ejercicios/Tema_Integracion_Continua/images/9.1.png)
+
+Una vez habiéndole dado a "Sign Up" se nos redirige a lo siguiente, debemos darle a "autorize travis-ci":
+
+![img2](https://github.com/antoniocuadros/ejercicios-apuntes-IV/blob/master/Ejercicios/Tema_Integracion_Continua/images/9.2.png)
