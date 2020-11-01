@@ -11,7 +11,7 @@ En este repositorio podemos encontrar una serie de ejercicios de autoevaluación
 - Se pueden consultar los ejercicios en el [siguiente enlace](https://github.com/antoniocuadros/ejercicios-apuntes-IV/blob/master/Ejercicios/Tema_3_Virtualizaci%C3%B3n_ligera_usando_contenedores/Ejercicios%20Virtualizaci%C3%B3n%20ligera%20usando%20contenedores.md).
 
 ### Tema: Integración continua :chart_with_upwards_trend:
-- Se pueden consultar los ejercicios en el [siguiente enlace]().
+- Se pueden consultar los ejercicios en el [siguiente enlace](https://github.com/antoniocuadros/ejercicios-apuntes-IV/blob/master/Ejercicios/Tema_Integracion_Continua/ejercicios.md).
 
 ## Nota: Repositorio WhenToClass
 En algunos casos se puede hacer referencia al repositorio de la aplicación que está siendo desarrollada en esta asignatura, puede ser consultado [aquí](https://github.com/antoniocuadros/WhenToClass).
