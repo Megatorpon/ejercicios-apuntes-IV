@@ -11,3 +11,7 @@ Una vez dentro de la página web nos registramos haciendo click en "Sign Up":
 Una vez habiéndole dado a "Sign Up" se nos redirige a lo siguiente, debemos darle a "autorize travis-ci":
 
 ![img2](https://github.com/antoniocuadros/ejercicios-apuntes-IV/blob/master/Ejercicios/Tema_Integracion_Continua/images/9.2.png)
+
+Una vez hecho esto se nos pide introducir la contraseña de GitHub, la introducimos y con esto ya estaríamos registrados.
+
+![img3](https://github.com/antoniocuadros/ejercicios-apuntes-IV/blob/master/Ejercicios/Tema_Integracion_Continua/images/9.3.png)
