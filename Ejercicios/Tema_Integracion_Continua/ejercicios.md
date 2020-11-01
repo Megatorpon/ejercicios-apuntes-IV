@@ -21,3 +21,7 @@ Una vez hecho esto se nos pide introducir la contraseña de GitHub, la introduci
 A la izquieda en la misma página de bienvenida podemos encontar un símbolo "+" para añadir travis-ci a nuestro repositorio:
 
 ![img4](https://github.com/antoniocuadros/ejercicios-apuntes-IV/blob/master/Ejercicios/Tema_Integracion_Continua/images/9.4.png)
+
+Ahora en la nueva página a la que hemos sido redirigidos, añadimos travis-ci a nuestro repositorio de la siguiente forma:
+
+![img5](https://github.com/antoniocuadros/ejercicios-apuntes-IV/blob/master/Ejercicios/Tema_Integracion_Continua/images/9.5.png)
