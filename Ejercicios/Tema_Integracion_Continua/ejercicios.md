@@ -25,3 +25,7 @@ A la izquieda en la misma página de bienvenida podemos encontar un símbolo "+"
 Ahora en la nueva página a la que hemos sido redirigidos, añadimos travis-ci a nuestro repositorio de la siguiente forma:
 
 ![img5](https://github.com/antoniocuadros/ejercicios-apuntes-IV/blob/master/Ejercicios/Tema_Integracion_Continua/images/9.5.png)
+
+Lo que hemos conseguido con esto es añadir un webhook de GitHub en nuestro repositorio de forma automática:
+
+![img6](https://github.com/antoniocuadros/ejercicios-apuntes-IV/blob/master/Ejercicios/Tema_Integracion_Continua/images/9.6.png)
