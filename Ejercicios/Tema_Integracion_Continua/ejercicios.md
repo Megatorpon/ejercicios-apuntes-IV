@@ -44,6 +44,7 @@ before_install:
 install: bundle install
 script: rake test
 ```
+
 Podemos observar que funciona correctamente con la siguiente imagen:
 
 ![img7](https://github.com/antoniocuadros/ejercicios-apuntes-IV/blob/master/Ejercicios/Tema_Integracion_Continua/images/10.1.png)
