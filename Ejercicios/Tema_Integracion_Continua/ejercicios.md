@@ -32,3 +32,18 @@ Lo que hemos conseguido con esto es añadir un webhook de GitHub en nuestro repo
 
 ## Ejercicio 10
 ### Configurar integración continua para nuestra aplicación usando Travis o algún otro sitio.
+Se ha configurado la integración continua sobre el repositorio [WhenToClass](https://github.com/antoniocuadros/WhenToClass), puede que sea modificado para ejecutar los tests haciendo uso del contenedor creado en el hito 3.
+
+```
+language: ruby
+cache: bundler
+rvm:
+  - 2.7.2
+before_install:
+  - gem install bundler
+install: bundle install
+script: rake test
+```
+Podemos observar que funciona correctamente con la siguiente imagen:
+
+![img7](https://github.com/antoniocuadros/ejercicios-apuntes-IV/blob/master/Ejercicios/Tema_Integracion_Continua/images/10.1.png)
