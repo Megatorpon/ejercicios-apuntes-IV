@@ -60,5 +60,5 @@ Podemos ver el correcto despliegue en la siguiente foto:
 ![img9](https://github.com/antoniocuadros/ejercicios-apuntes-IV/blob/master/Ejercicios/Tema_Serverless/images/9.png)
 
 
-Y que funciona correctamente [aquí](https://pruebas-vercel.vercel.app/api/date):
+Y que funciona correctamente [aquí](https://pruebas-vercel.vercel.app/api/date)
 
