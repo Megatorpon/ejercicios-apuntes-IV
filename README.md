@@ -16,6 +16,8 @@ En este repositorio podemos encontrar una serie de ejercicios de autoevaluación
 ### Tema: Serverless
 - Se pueden consultar los ejercicios en el [siguiente enlace](https://github.com/antoniocuadros/ejercicios-apuntes-IV/blob/master/Ejercicios/Tema_Serverless/ejercicios.md).
 
+### Tema: Microservicios
+- Se pueden consultar los ejercicios en el [siguiente enlace](https://github.com/antoniocuadros/ejercicios-apuntes-IV/blob/master/Ejercicios/Tema_Microservicios/ejercicios.md)
 
 ## Nota: Repositorio WhenToClass
 En algunos casos se puede hacer referencia al repositorio de la aplicación que está siendo desarrollada en esta asignatura, puede ser consultado [aquí](https://github.com/antoniocuadros/WhenToClass).
